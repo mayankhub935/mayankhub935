@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayankhub935
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning sql, python and R
+- 👀 I’m interested in playing with data 
+- 🌱 I’m currently learning data analytics and visualization
 
 
 <!---
